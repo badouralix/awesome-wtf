@@ -18,6 +18,10 @@ A curated list of wtfery.
 - [Powershell](https://wtfpowershell.aiurs.co/)
 - [Python](https://github.com/satwikkansal/wtfpython)
 
+## Turing Completeness
+
+- [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete)
+
 ## Miscellaneous
 
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net)
