@@ -25,6 +25,7 @@ A curated list of wtfery.
 ## Miscellaneous
 
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net)
+- [Git Is F!!cking Hard](https://git.wtf/)
 - [The Daily WTF](https://thedailywtf.com)
 
 ## License
