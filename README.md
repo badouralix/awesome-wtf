@@ -27,6 +27,7 @@ A curated list of wtfery.
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net)
 - [Git Is F!!cking Hard](https://git.wtf/)
 - [The Daily WTF](https://thedailywtf.com)
+- [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 
 ## License
 
